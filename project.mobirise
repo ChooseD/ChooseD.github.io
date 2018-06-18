@@ -1,17 +1,30 @@
 {
   "settings": {
-    "name": "Site-06-17_1734",
+    "name": "Site-06-18_2239",
     "currentPage": "index.html",
     "theme": {
-      "name": "purity",
-      "title": "PurityM",
-      "styling": {}
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 2,
-    "versionPublish": "4.5.4",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 16,
+    "versionPublish": "4.5.4"
   },
   "pages": {
     "index.html": {
@@ -26,25 +39,32 @@
       "components": [
         {
           "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-              "width": 1400
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "purity/components",
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1"
+          "_name": "header1",
+          "_anchor": "header1-f"
         }
       ]
     }
