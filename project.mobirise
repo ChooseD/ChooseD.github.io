@@ -49,7 +49,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/comp-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/giff",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
