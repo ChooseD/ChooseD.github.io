@@ -49,7 +49,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/comp-1.gif",
+            "bgImage": "@PROJECT_PATH@/ChooseD.github.io/Comp-1（已转换）.gif,
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
