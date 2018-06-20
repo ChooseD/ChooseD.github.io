@@ -1,4 +1,4 @@
--{
+{
   "settings": {
     "name": "Site-06-18_2239",
     "currentPage": "index.html",
@@ -49,7 +49,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "ChooseD.github.io/Comp-1（已转换）.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/comp-1.gif",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
