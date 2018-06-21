@@ -418,13 +418,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-x .mbr-section-title {
-  color: #000000;
-  font-size: 36px;
-}
-#header1-x .mbr-section-lead {
-  color: #000000;
-}
 
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
