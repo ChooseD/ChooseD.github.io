@@ -50,7 +50,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "ChooseD.github.io/assets/images/1.gif",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#a07e49",
