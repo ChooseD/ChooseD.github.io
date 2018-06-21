@@ -1,9 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
-
-
-
 
 
 
@@ -423,23 +418,12 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-h .mbr-section-title {
-  text-align: left;
-  font-family: 'Roboto', sans-serif;
-  color: #fac51c;
-  font-size: 60px;
-}
-#header1-h .mbr-section-lead {
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
-}
-#header1-h .mbr-section-lead SPAN {
+#header1-x .mbr-section-title {
+  color: #000000;
   font-size: 36px;
-  color: #ff0000;
-  font-family: 'Open Sans', sans-serif;
 }
-#header1-h .btn {
-  font-family: 'Roboto', sans-serif;
+#header1-x .mbr-section-lead {
+  color: #000000;
 }
 
 #ext_menu-s .hide-buttons .nav-btn {
